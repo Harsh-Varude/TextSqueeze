@@ -1,1 +1,1 @@
-# Text-summerize
+# TextSqueeze
